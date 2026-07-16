@@ -1,0 +1,6 @@
+{
+  "name": "DLS Tournament",
+  "description": "A premium, feature-rich Android Tournament application with integrated matchmaking, real-time wallets, detailed matches tracker, user profile management, history logs, and a full admin control dashboard. Supports English & Bengali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
